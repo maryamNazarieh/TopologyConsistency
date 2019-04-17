@@ -1,0 +1,16 @@
+pval.hypergeom.disease.node=2.07415818225379e-28
+disease.net.coverage.rate.edge=100
+disease.net.coverage.rate.node=100
+degree.image.path=/home/chris/TF-site/tfmir/uploads/aiqo1dhgkb3qcu401aimqev6j7/disease/degree.png
+graph.nodes.no=163
+graph.edges.no=199
+graph.density=0.007
+graph.diameter=5
+graph.avg.path.length=2.62
+graph.transitivity=0.028
+degree.hotspots=hsa-let-7b, JUN, E2F1, FOS, hsa-mir-29a, MYC, CCND1, ESR1, TERT, hsa-mir-34a-5p, STAT3, NFE2L2, HBB, APOH, MIER1, CDC25A, hsa-mir-26a-5p
+closeness.hotspots=JUN, hsa-mir-34a-5p, NR4A1, E2F1, hsa-mir-26a-5p, STAT3, USF1, NME2, MAZ, HIVEP1, CNBP, MYC, hsa-let-7b, LIN28B, ESR1, PDGFB, HMGA1
+betweenness.hotspots=hsa-let-7b, MYC, hsa-mir-29a, FOS, E2F1, GTF2I, HMGA1, ESR1, RRM2, ACSL4, PIK3R1, FGA, CPEB4, SPARC, COL4A1, KREMEN2, CPEB3
+eigenvector.hotspots=hsa-let-7b, JUN, FOS, E2F1, MYC, CCND1, TERT, CDC25A, PLAU, HMGA1, LIN28B, hsa-mir-34a-5p, ESR1, GTF2I, CCNA2, HBB, APOH
+common.hotspots=hsa-let-7b, E2F1, MYC, ESR1
+union.hotspots=hsa-let-7b, JUN, E2F1, FOS, hsa-mir-29a, MYC, CCND1, ESR1, TERT, hsa-mir-34a-5p, STAT3, NFE2L2, HBB, APOH, MIER1, CDC25A, hsa-mir-26a-5p, NR4A1, USF1, NME2, MAZ, HIVEP1, CNBP, LIN28B, PDGFB, HMGA1, GTF2I, RRM2, ACSL4, PIK3R1, FGA, CPEB4, SPARC, COL4A1, KREMEN2, CPEB3, PLAU, CCNA2
