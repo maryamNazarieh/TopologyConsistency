@@ -1,0 +1,17 @@
+hsa-let-7b
+JUN
+E2F1
+FOS
+hsa-mir-29a
+MYC
+CCND1
+ESR1
+TERT
+hsa-mir-34a-5p
+STAT3
+NFE2L2
+HBB
+APOH
+MIER1
+CDC25A
+hsa-mir-26a-5p
