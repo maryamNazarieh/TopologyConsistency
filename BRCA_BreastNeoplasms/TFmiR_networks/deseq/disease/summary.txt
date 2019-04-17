@@ -1,0 +1,16 @@
+pval.hypergeom.disease.node=3.53705282479935e-38
+disease.net.coverage.rate.edge=100
+disease.net.coverage.rate.node=100
+degree.image.path=/home/chris/TF-site/tfmir/uploads/19nfae9arng8upptfb2vab1871/disease/degree.png
+graph.nodes.no=227
+graph.edges.no=302
+graph.density=0.006
+graph.diameter=7
+graph.avg.path.length=3.074
+graph.transitivity=0.024
+degree.hotspots=JUN, hsa-mir-21, hsa-mir-146a, E2F1, TFAP2A, FOS, ESR1, CCND1, IFNB1, EGFR, STAT5A, IL6, ESR2, KIT, ERBB2, RARB, MYC, ETS2, hsa-mir-21-5p, hsa-mir-1, STAT1, PGR, BRCA1
+closeness.hotspots=TFAP2A, TEAD4, JUN, RUNX2, ESR1, hsa-mir-1, EGR1, ETV5, hsa-mir-21-5p, TNFSF12, KRAS, BMPR1B, BMP6, ZBTB16, THRB, THRA, RPA3, hsa-mir-21, hsa-mir-146a, NFIB, EGFR, TGFB1, BRCA1
+betweenness.hotspots=hsa-mir-21, hsa-mir-146a, EGFR, TGFB1, E2F1, FOS, STAT1, JUN, BRCA1, ESR1, PGR, MYC, PLAU, IL6, RARB, CEBPA, SNAI2, IRF1, DLL1, CCL20, SESN1, SPRY2, TP53BP2
+eigenvector.hotspots=JUN, hsa-mir-21, FOS, TFAP2A, ESR1, CCND1, MYC, E2F1, PGR, PLAU, PENK, TGFB1, EGFR, BRCA1, MSH2, ERBB2, hsa-mir-146a, MMP12, NAT1, TXNIP, HBB, MMP1, EDN1
+common.hotspots=JUN, hsa-mir-21, hsa-mir-146a, ESR1, EGFR, BRCA1
+union.hotspots=JUN, hsa-mir-21, hsa-mir-146a, E2F1, TFAP2A, FOS, ESR1, CCND1, IFNB1, EGFR, STAT5A, IL6, ESR2, KIT, ERBB2, RARB, MYC, ETS2, hsa-mir-21-5p, hsa-mir-1, STAT1, PGR, BRCA1, TEAD4, RUNX2, EGR1, ETV5, TNFSF12, KRAS, BMPR1B, BMP6, ZBTB16, THRB, THRA, RPA3, NFIB, TGFB1, PLAU, CEBPA, SNAI2, IRF1, DLL1, CCL20, SESN1, SPRY2, TP53BP2, PENK, MSH2, MMP12, NAT1, TXNIP, HBB, MMP1, EDN1
